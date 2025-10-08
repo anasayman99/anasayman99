@@ -105,10 +105,9 @@ I build intelligent, data-driven software that combines automation, scalable arc
 ## 🏆 Achievements  
 
 - 🥇 Dean’s Honour List – GPA **4.0/4.0**  
-- 💻 Delivered **5+ full-stack projects** integrating AI, databases, and web frameworks  
+- 💻 Delivered **4+ full-stack projects** integrating AI, databases, and web frameworks  
 - ⚡ Improved API reliability by **100%** through resilient architecture & retry logic  
 - 🧩 Designed normalized schemas (10+ tables) with triggers & historical tracking  
-- 🪐 Built responsive, mobile-first web interfaces with dynamic interactivity  
 
 ---
 
